@@ -1,4 +1,6 @@
-package Arrays;/*
+package Arrays;
+
+/*
 1266. Minimum Time Visiting All Points
 On a plane there are n points with integer coordinates points[i] = [xi, yi]. Your task is to find the minimum time in seconds to visit all points.
 
