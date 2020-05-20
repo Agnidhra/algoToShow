@@ -1,4 +1,4 @@
-package Arrays;
+package String;
 
 /*
 709. To Lower Case
